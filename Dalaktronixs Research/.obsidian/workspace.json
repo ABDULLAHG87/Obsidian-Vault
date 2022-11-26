@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "dc317ea1e3a63487",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ccc82223692598d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed01b8e24b840404",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "25-November-2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92affb4bff063bca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme File.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58036b931366e1cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e50412212647fe1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2a1f7d56e5481a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4869e222c0df0ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ifndef",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79d1920e938f77e7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1898e34c14d71515",
+    "type": "split",
+    "children": [
+      {
+        "id": "beea7373b1f3871a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf1058733b99d0ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Readme File.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b1c9fead6535d1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Readme File.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4bf533dab6f5910",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1b09db68ef324610",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Readme File.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "92affb4bff063bca",
+  "lastOpenFiles": [
+    "25-November-2022.md",
+    "C Programming/Understudying Markdown Language.md",
+    "Readme File.md",
+    "C Programming/Preprocessor In C.md",
+    "C Programming/Pointers, Arrays and Strings/Pointers/Function Pointers.md",
+    "C Programming/Pointers, Arrays and Strings/Working With Arrays.md",
+    "C Programming/Pointers, Arrays and Strings/Pointers/Pointers.md",
+    "C Programming/Variadic Function/Variadic Functions (Function With Variable Numbers of Arguments).md",
+    "Projects/Printf Project.md",
+    "Welcome.md"
+  ]
+}
